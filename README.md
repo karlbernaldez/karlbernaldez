@@ -45,9 +45,8 @@
 ### 🌟 Notable Projects
 
 - [**Real-Time License Plate Recognition**](https://github.com/kakie19/Real-Time-License-Plate-Recognition): A Python-based system for recognizing license plates with YOLO and EasyOCR.
-- [**Applied Cryptography**](https://github.com/kakie19/Appled_Cryptography): An app for secure encryption and hashing using Fernet-AES, RSA, and SHA-256.
-- [**Reels Generator**](https://github.com/kakie19/Reels-Generator): A Tkinter GUI tool for automating video reel creation.
-
+- [**Fingerprint Doorlock Systems**](https://github.com/BryanLomerio/dashboard): A fingerprint and PIN-based secure door access system.
+- [**Document Assistant AI**](https://github.com/karlbernaldez/document-assistant): An AI designed to help users efficiently scan, summarize, analyze, and extract key information from documents.
 ---
 
 ### 📈 Achievements
