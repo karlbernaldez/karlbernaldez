@@ -75,4 +75,5 @@
   </p>
 </div>
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/karlbernaldez/karlbernaldez/output/github-contribution-grid-snake.svg" />
+![GitHub User Contribution](/github-user-contribution.svg)
+
