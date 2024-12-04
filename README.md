@@ -46,7 +46,7 @@
 
 - [**Real-Time License Plate Recognition**](https://github.com/kakie19/Real-Time-License-Plate-Recognition): A Python-based system for recognizing license plates with YOLO and EasyOCR.
 - [**Fingerprint Doorlock Systems**](https://github.com/BryanLomerio/dashboard): A fingerprint and PIN-based secure door access system.
-- [**Document Assistant AI**](https://github.com/karlbernaldez/document-assistant): An AI designed to help users efficiently scan, summarize, analyze, and extract key information from documents.
+- [**Document Assistant AI**](https://github.com/karlbernaldez/document-assistant): AI for efficient document scanning, summarizing, and key info extraction.
 ---
 
 ### 📈 Achievements
