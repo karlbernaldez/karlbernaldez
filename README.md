@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=karlbernaldez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<img align="right" height="138" src="/coding.gif" alt="developer gif" />
+<img align="right" height="133" src="/coding.gif" alt="developer gif" />
 
 <p>&nbsp;</p>
 ### 🚀 Skills
