@@ -69,8 +69,7 @@
 ### 📚 Education
 
 **B.Sc. in Computer Science**  
-*Camarines Sur Polytechnic Colleges, Nabua, Camarines Sur*  
-*GWA: 1.6474 (2020–2024)*  
+*Camarines Sur Polytechnic Colleges, Nabua, Camarines Sur* 
 
 ---
 
