@@ -132,8 +132,8 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 <!-- GLASSMORPHISM PROJECT CARD 2 -->
 <div align="center">
   
-### 💎 **PROJECT DIAMOND**
-*Next-Generation Web Application*
+### 🎓 **PHILSCA: Student Org Dashboard**
+*Empowering Student Organizations with Modern Tools*
 
 </div>
 
@@ -144,37 +144,38 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 <div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); padding: 20px;">
 
 **🌟 ABOUT**
-> Cutting-edge solution that redefines user experience with modern architecture and sleek design patterns
+> A centralized platform for student organizations at PHILSCA, streamlining events, communication, and services in one modern dashboard.
 
 <br/>
 
 **⚡ TECH STACK**
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=092E20)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=316192)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
 
 </div>
 
 <br/>
 
 **✨ FEATURES**
-- 🔐 **JWT Authentication** system
-- 📱 **Responsive Design** first approach
-- ⚡ **Optimized APIs** for performance  
-- 🐳 **Docker Ready** deployment
+- 👤 **Student Profile Management**
+- 📅 **Event Calendar** with upcoming events
+- 💬 **Messaging System**
+- 📊 **Dashboard Overview**
 
 </div>
 
 <br/>
 
 <div align="center">
-  <a href="https://your-demo-link.com">
+  <a href="http://35.222.38.75/">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4ECDC4" alt="Live Demo" style="margin: 5px;"/>
   </a>
-  <a href="https://github.com/yourusername/project2">
+  <a href="https://github.com/AdoVelopers/philsca-system">
     <img src="https://img.shields.io/badge/⚡%20VIEW%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="View Code" style="margin: 5px;"/>
   </a>
 </div>
@@ -280,25 +281,20 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karlbernaldez&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karlbernaldez&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karlbernaldez&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karlbernaldez&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Goals
@@ -309,24 +305,24 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ph.linkedin.com/in/bernaldezkarlsantiago)
+[![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/karl.bernaldez.92)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bernaldezkarlsantiago@gmail.com)
 
 ## 💡 Random Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20developer%E2%80%99s%20best%20tool%20isn%E2%80%99t%20the%20keyboard,%20it%E2%80%99s%20curiosity%20%20because%20curiosity%20drives%20us%20to%20ask%20better%20questions,%20discover%20smarter%20solutions,%20and%20build%20software%20that%20doesn%E2%80%99t%20just%20work,%20but%20inspires.&author=Karl%20Santiago%20Bernaldez" alt="Dev Quote 2" />
 </div>
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/karlbernaldez/karlbernaldez/blob/1847a47d913d2f7c1e5406e9759c0be6557eb2d9/karl-contribution.svg" alt="Snake animation" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=karlbernaldez&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
