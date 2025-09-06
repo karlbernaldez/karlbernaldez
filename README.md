@@ -200,73 +200,7 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 
 <br/>
 
-<!-- GLASSMORPHISM PROJECT CARD 3 -->
-<div align="center">
-  
-### 🔥 **PROJECT PHOENIX**
-*Revolutionary Firebase Application*
 
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-<div align="center">
-  <img src="screenshots/project3-screenshot.png" alt="Project Phoenix Interface" width="100%" style="border-radius: 20px; backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);"/>
-</div>
-
-</td>
-<td width="40%">
-
-<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); padding: 20px;">
-
-**🌟 ABOUT**
-> Phoenix rises with stunning visuals and blazing-fast performance, delivering an unforgettable user experience
-
-<br/>
-
-**⚡ TECH STACK**
-<div align="center">
-
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=35495E)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white&labelColor=039BE5)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)
-
-</div>
-
-<br/>
-
-**✨ FEATURES**
-- 🎨 **Modern UI/UX** with Tailwind CSS
-- 🔥 **Real-time Sync** via Firebase
-- 📊 **Analytics Dashboard** integration  
-- 🌙 **Dark Mode** theme switching
-
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://your-demo-link.com">
-    <img src="https://img.shields.io/badge/✨%20EXPERIENCE-FF9500?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FF9500" alt="Experience" style="margin: 5px;"/>
-  </a>
-  <a href="https://github.com/yourusername/project3">
-    <img src="https://img.shields.io/badge/🔍%20EXPLORE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Explore" style="margin: 5px;"/>
-  </a>
-</div>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- GLASSMORPHISM FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=footer&reversal=true" width="100%"/>
-</div>
 
 <br/>
 
