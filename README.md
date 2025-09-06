@@ -298,10 +298,10 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 </div>
 
 ## 🎯 Current Goals
-- [ ] Contribute to [X] open source projects
-- [ ] Learn [Technology/Framework]
-- [ ] Build [Type of project]
-- [ ] Get [Certification/Achievement]
+- [ ] Contribute to 10+ open source projects.
+- [ ] Learn Cybersecurity.
+- [ ] Build Innovative and Scalable projects.
+- [ ] Get Cybersecurity Certification Program.
 
 ## 🌐 Connect with me
 
