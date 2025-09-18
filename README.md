@@ -200,7 +200,75 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 
 <br/>
 
+<!-- GLASSMORPHISM PROJECT CARD 3 -->
+<div align="center">
+  
+### 📚 **Flight Deck Learn**
+*The control center for all your learning resources, a cockpit for your studies.*
 
+</div>
+
+<table>
+<tr>
+<td width="60%">
+
+<div align="center" style="background: #2d3748; border-radius: 10px; padding: 20px;">
+  <div style="background: #4a5568; height: 30px; border-radius: 10px 10px 0 0; margin-bottom: 10px;"></div>
+  <img src="https://github.com/karlbernaldez/karlbernaldez/blob/e1a440a3af92a20f26dcf4dc914cd5a2587abc84/Flightdeck.png" alt="Votewave WaveLab" width="100%" style="border-radius: 0 0 10px 10px;"/>
+</div>
+
+</td>
+<td width="40%">
+
+<div style="background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.05)); backdrop-filter: blur(10px); border-radius: 20px; border: 1px solid rgba(255, 255, 255, 0.18); padding: 20px;">
+
+**🌟 ABOUT**
+> A dedicated online platform for PhilSCA students, providing centralized access to important modules. Created to support academic success and enhance aviation education through organized, easy-to-access digital materials.
+<br/>
+
+**⚡ TECH STACK**
+<div align="center">
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&labelColor=43853D)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=4EA94B)
+![Mapbox](https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white&labelColor=000000)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&labelColor=4285F4)
+
+</div>
+
+<br/>
+
+**✨ FEATURES**
+- ✏️ **Centralized Learning Hub** for students  
+- 📊 **Aviation Focus** resources
+- 🌦️ **100% Free** Courses
+
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://flightdecklearn.com/">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B" alt="Live Demo" style="margin: 5px;"/>
+  </a>
+  <a href="https://github.com/AdoVelopers/Flight-Deck">
+    <img src="https://img.shields.io/badge/📝%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="Source Code" style="margin: 5px;"/>
+  </a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- GLASSMORPHISM DIVIDER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</div>
+
+<br/>
 
 <br/>
 
