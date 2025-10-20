@@ -172,7 +172,7 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 <br/>
 
 <div align="center">
-  <a href="https:/philsca-osa.com">
+  <a href="https://philsca-osa.com">
     <img src="https://img.shields.io/badge/🌐%20LIVE%20DEMO-4ECDC4?style=for-the-badge&logo=netlify&logoColor=white&labelColor=4ECDC4" alt="Live Demo" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/AdoVelopers/philsca-system">
