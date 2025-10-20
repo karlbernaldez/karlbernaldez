@@ -108,7 +108,7 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 <br/>
 
 <div align="center">
-  <a href="http://35.222.38.75:8080/">
+  <a href="http://34.123.24.17/">
     <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B" alt="Live Demo" style="margin: 5px;"/>
   </a>
   <a href="https://github.com/karlbernaldez/pagasa-wave">
