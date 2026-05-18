@@ -60,7 +60,7 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 <!-- GLASSMORPHISM PROJECT CARD 1 -->
 <div align="center">
   
-### 🌊 **VOTEWAVE WAVELAB**
+### 🌊 **DOST PAGASA-VOTE: WaveLab**
 *Interactive Weather Forecasting Platform*
 
 </div>
@@ -71,7 +71,7 @@ I'm a Full-Stack Developer with a passion for building robust web applications, 
 
 <div align="center" style="background: #2d3748; border-radius: 10px; padding: 20px;">
   <div style="background: #4a5568; height: 30px; border-radius: 10px 10px 0 0; margin-bottom: 10px;"></div>
-  <img src="https://github.com/karlbernaldez/karlbernaldez/blob/211c792d5fc1d100052984dedcc765f66ffed59d/VOTEWAVE.png" alt="Votewave WaveLab" width="100%" style="border-radius: 0 0 10px 10px;"/>
+  <img src="https://github.com/karlbernaldez/karlbernaldez/blob/main/VOTEWAVE.png" alt="DOST PAGASA-VOTE: WaveLab" width="100%" style="border-radius: 0 0 10px 10px;"/>
 </div>
 
 </td>
